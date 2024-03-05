@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mga-sapotero.github.io/static/css/main.cc7fe895.css",
+    "main.js": "/mga-sapotero.github.io/static/js/main.ff6e9afb.js",
+    "static/media/MontserratRomanExtraBold.ttf": "/mga-sapotero.github.io/static/media/MontserratRomanExtraBold.6c8b198832c88c649faa.ttf",
+    "static/media/MontserratRomanBlack.ttf": "/mga-sapotero.github.io/static/media/MontserratRomanBlack.beacc26b4bbaaf608567.ttf",
+    "static/media/MontserratRomanBold.ttf": "/mga-sapotero.github.io/static/media/MontserratRomanBold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/MontserratRomanSemiBold.ttf": "/mga-sapotero.github.io/static/media/MontserratRomanSemiBold.93b37a465fc4ec0d0415.ttf",
+    "static/media/MontserratRomanRegular.ttf": "/mga-sapotero.github.io/static/media/MontserratRomanRegular.24785cc015b27a3e964b.ttf",
+    "static/media/RobotoRegular.ttf": "/mga-sapotero.github.io/static/media/RobotoRegular.fc2b5060f7accec5cf74.ttf",
+    "index.html": "/mga-sapotero.github.io/index.html",
+    "main.cc7fe895.css.map": "/mga-sapotero.github.io/static/css/main.cc7fe895.css.map",
+    "main.ff6e9afb.js.map": "/mga-sapotero.github.io/static/js/main.ff6e9afb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc7fe895.css",
+    "static/js/main.ff6e9afb.js"
+  ]
+}
